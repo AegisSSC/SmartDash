@@ -14,3 +14,12 @@ import pandas as pd
 
 # read data in From csv
 #  [ticker] | [number of shares] 
+
+
+# query quandl for "Current" Prices
+
+
+
+# Display current information
+
+
