@@ -1,0 +1,43 @@
+WORKFLOW DOCUMENT
+
+
+
+CALENDAR:
+1. Built from Google Calendars
+2. Built from iCalendar
+3. Displays the month of events
+
+WEATHER
+1. Built from Weather Api
+2. Big Display shows the current weather for the day
+3. Small Display shows the current weather forecast for 7 or 3 days. 
+
+NEWS
+1. Build from a News API
+1a. Set up parameters for what you consider 'relavent'
+2. Displays a list of all "relevent" news articles
+3. Each is a link that you will be able to click on to view the article
+
+STOCKS
+1. Built from a Quandl Python Library
+2. Build a database of holdings and the number of holdings you have
+3. Using the holdings, query the quandl library for prices
+4. Display current value of all holdings and your current portfolio's value
+5. Circular Pie Display of %share of portfolio for each holding. 
+
+REMINDERS
+
+
+TODO:
+1. Built from Calendar
+2. Display all tasks that are scheduled for Today
+
+QUOTE:
+1. Build a Database table that stores 4 years of Inspirational quotes
+2. At the beginning of the day pick 11 at random to display
+
+
+EXTRAS
+
+
+
